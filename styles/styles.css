@@ -51,6 +51,17 @@ header #home .textos-home h1 {
 header #home .textos-home h1 span {
   color: #4e75ff;
 }
+header #home .textos-home .btn-main {
+  color: white;
+  background-color: #4e75ff;
+  border-radius: 40px;
+  padding: 24px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  width: 280px;
+  border: none;
+}
 header #home .img-home {
   max-width: 474px;
 }
